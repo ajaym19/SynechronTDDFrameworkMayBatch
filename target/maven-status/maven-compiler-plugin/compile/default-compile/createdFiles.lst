@@ -1,0 +1,3 @@
+com\synechron\pages\LoginPage.class
+com\synechron\base\TestBase.class
+com\synechron\pages\DashboardPage.class
